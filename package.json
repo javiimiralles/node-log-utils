@@ -1,6 +1,6 @@
 {
   "name": "node-log-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A logging utility for Node.js applications",
   "main": "index.js",
   "type": "module",
