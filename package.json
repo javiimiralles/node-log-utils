@@ -8,10 +8,23 @@
     "test": "mocha"
   },
   "keywords": [
+    "logging",
+    "logger",
     "log",
-    "helper",
-    "log-helper",
-    "log-utils"
+    "nodejs",
+    "node",
+    "utilities",
+    "log levels",
+    "log formats",
+    "console logging",
+    "file logging",
+    "debug",
+    "info",
+    "warning",
+    "error",
+    "timestamps",
+    "chalk",
+    "node-log-utils"
   ],
   "author": "Javier Miralles Martínez",
   "license": "ISC",
