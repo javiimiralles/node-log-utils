@@ -1,6 +1,6 @@
 {
   "name": "node-log-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A logging utility for Node.js applications",
   "main": "index.js",
   "type": "module",
@@ -26,6 +26,10 @@
     "chalk",
     "node-log-utils"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiimiralles/node-log-utils"
+  },
   "author": "Javier Miralles Martínez",
   "license": "ISC",
   "dependencies": {
